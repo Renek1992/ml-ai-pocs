@@ -1,4 +1,4 @@
-<img src="docs/img/ts_logo.png" alt="Diagram 1" width="80">
+
 
 # data-ml-pocs
 This repo showcases a multitude of different machine learning and artificial intelligence realted projects in POC (Proof-Of-Concept) stage. The goal of this repo is to demonstrate different approaches to tackle problems with ML-driven solutions. With fast advances in the field of Large Language Models (LLMs), foundation models can provide a high confidence in supporting a engine to generate context driven responses for a platform feature.
