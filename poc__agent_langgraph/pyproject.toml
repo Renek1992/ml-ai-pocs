@@ -1,0 +1,14 @@
+[project]
+name = "poc-agent-langgraph"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain-anthropic>=0.3.10",
+    "langchain-community>=0.3.20",
+    "langgraph>=0.3.20",
+    "langsmith>=0.3.19",
+    "ruff>=0.11.2",
+    "tavily-python>=0.5.3",
+]

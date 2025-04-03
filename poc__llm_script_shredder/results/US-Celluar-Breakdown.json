@@ -1,0 +1,139 @@
+{
+    "script_path": "./data/US-Celluar-Breakdown.pdf",
+    "script_details": [
+        {
+            "role_name": "FEMALE USCELLULAR EMPLOYEE",
+            "role_description": "Woman 35 - 50 Black, White. Real to slight character looking. Interesting face. Huge comedy / improv chops. Likable, approachable, friendly, and very helpful. Great actor. Great with facial expressions and comedic timing.",
+            "scene_count": 1,
+            "gender": "Female",
+            "minimum_playable_age": "35",
+            "maximum_playable_age": "50",
+            "skills": ["Comedy / Improv chops, Great with facial expressions and comedic timing"],
+            "demographics": "Likable, approachable, friendly, and very helpful",
+            "ethnicity": "Black, White"
+        },
+        {
+            "role_name": "DAD",
+            "role_description": "Man 35 - 50 Black, White. Real to slight character looking. Interesting face. Huge comedy / improv chops. Typical dad type - he loves to please his family. Great actor. Great with facial expressions and comedic timing.",
+            "scene_count": 1,
+            "gender": "Male",
+            "minimum_playable_age": "35",
+            "maximum_playable_age": "50",
+            "skills": ["Comedy / Improv chops, Great with facial expressions and comedic timing"],
+            "demographics": "Loves to please his family",
+            "ethnicity": "Black, White"
+        },
+        {
+            "role_name": "MOM",
+            "role_description": "Woman 35 - 50 Black, White. Real to slight character looking. Interesting face. Huge comedy / improv chops. Typical mom type. Great with facial expressions and comedic timing.",
+            "scene_count": 1,
+            "gender": "Female",
+            "minimum_playable_age": "35",
+            "maximum_playable_age": "50",
+            "skills": ["Comedy / Improv chops, Great with facial expressions and comedic timing"],
+            "demographics": "Typical mom type",
+            "ethnicity": "Black, White"
+        },
+        {
+            "role_name": "SON",
+            "role_description": "Man 10 - 12 Black, White. Real to slight character looking. Interesting face. Huge comedy / improv chops. Typical kid - innocent and enthusiastic. Great with facial expressions and comedic timing.",
+            "scene_count": 1,
+            "gender": "Male",
+            "minimum_playable_age": "10",
+            "maximum_playable_age": "12",
+            "skills": ["Comedy / Improv chops, Great with facial expressions and comedic timing"],
+            "demographics": "Innocent and enthusiastic",
+            "ethnicity": "Black, White"
+        },
+        {
+            "role_name": "DAUGHTER",
+            "role_description": "Woman 8 - 10 Black, White. Real to slight character looking. Interesting face. Huge comedy / improv chops. Regular kid. Impossible to say no to. Great with facial expressions and comedic timing.",
+            "scene_count": 1,
+            "gender": "Female",
+            "minimum_playable_age": "8",
+            "maximum_playable_age": "10",
+            "skills": ["Comedy / Improv chops, Great with facial expressions and comedic timing"],
+            "demographics": "Impossible to say no to",
+            "ethnicity": "Black, White"
+        },
+        {
+            "role_name": "WRESTLER",
+            "role_description": "Man 30 - 50 White. Real to character looking. Interesting face. Huge comedy / improv chops. Built like a brick shipyard - he's a classic pro wrestler type straight out of the golden era. Think bicep flexing, hair flipping, camera hogging showboat. Great actor. Great with facial expressions and comedic timing.",
+            "scene_count": 1,
+            "gender": "Male",
+            "minimum_playable_age": "30",
+            "maximum_playable_age": "50",
+            "skills": ["Comedy / Improv chops, Great with facial expressions and comedic timing"],
+            "demographics": "Built like a brick shipyard - classic pro wrestler type",
+            "ethnicity": "White"
+        },
+        {
+            "role_name": "PUPPETEER",
+            "role_description": "Man, Woman 25 - 55 Any Ethnic Appearance. Must have hand held puppeteer experience - please mark submission notes with experience. Huge comedy / improv chops. Great actor. Great with comedic timing. Will also be the voice of the puppet.",
+            "scene_count": 1,
+            "gender": "N/A",
+            "minimum_playable_age": "25",
+            "maximum_playable_age": "55",
+            "skills": ["Hand held puppeteer experience", "Comedy / Improv chops", "Great with comedic timing"],
+            "demographics": "N/A",
+            "ethnicity": "Other"
+        },
+        {
+            "role_name": "MALE USCELLULAR EMPLOYEE",
+            "role_description": "Man 35 - 50 White, Latinx / Hispanic. Real to slight character looking. Interesting face. Huge comedy / improv chops. Likable, approachable, friendly, and very helpful. Great actor. Great with facial expressions and comedic timing.",
+            "scene_count": 1,
+            "gender": "Male",
+            "minimum_playable_age": "35",
+            "maximum_playable_age": "50",
+            "skills": ["Comedy / Improv chops", "Great with facial expressions and comedic timing"],
+            "demographics": "Likable, approachable, friendly, and very helpful",
+            "ethnicity": "White, Hispanic"
+        },
+        {
+            "role_name": "SMOOTH JAZZ DJ",
+            "role_description": "Man 40 - 55 Black, White. Real to slight character looking. Interesting face. Huge comedy / improv chops. He has a calming, deep baritone voice that sounds like it's straight out of the 70's school of radio DJ's. He has a slightly dated, eccentric look. Great actor. Great with facial expressions and comedic timing.",
+            "scene_count": 1,
+            "gender": "Male",
+            "minimum_playable_age": "40",
+            "maximum_playable_age": "55",
+            "skills": ["Comedy / Improv chops", "Great with facial expressions and comedic timing"],
+            "demographics": "Calming, deep baritone voice, slightly dated, eccentric look",
+            "ethnicity": "Black, White"
+        },
+        {
+            "role_name": "REPORTER IN A STORM",
+            "role_description": "Woman 25 - 35 Multiple Ethnic Appearances. Real to slight character looking. Interesting face. Huge comedy / improv chops. She's a professional and composed network news reporter on the scene during a torrential downpour. She should have long hair that will blow in the wind. Great actor. Great with facial expressions and comedic timing.",
+            "scene_count": 1,
+            "gender": "Female",
+            "minimum_playable_age": "25",
+            "maximum_playable_age": "35",
+            "skills": ["Comedy / Improv chops", "Great with facial expressions and comedic timing"],
+            "demographics": "Professional and composed network news reporter",
+            "ethnicity": "Other"
+        },
+        {
+            "role_name": "WATER COOLER TALKER",
+            "role_description": "Woman 45 - 55 White. Real to slight character looking. Interesting face. Huge comedy / improv chops. She's the quintessential office gossip. She's good with a covert voice that sounds like a stage whisper. Great actor. Great with facial expressions and comedic timing.",
+            "scene_count": 1,
+            "gender": "Female",
+            "minimum_playable_age": "45",
+            "maximum_playable_age": "55",
+            "skills": ["Comedy / Improv chops", "Great with facial expressions and comedic timing"],
+            "demographics": "Quintessential office gossip, good with a covert voice that sounds like a stage whisper",
+            "ethnicity": "White"
+        },
+        {
+            "role_name": "DOUG",
+            "role_description": "Man 35 - 50 White. Real to slight character looking. Interesting face. Huge comedy / improv chops. He can express guilt as clear as the pink frosting on his face. Great actor. Great with facial expressions and comedic timing.",
+            "scene_count": 1,
+            "gender": "Male",
+            "minimum_playable_age": "35",
+            "maximum_playable_age": "50",
+            "skills": ["Comedy / Improv chops", "Great with facial expressions and comedic timing"],
+            "demographics": "Can express guilt clearly",
+            "ethnicity": "White"
+        }
+    ],
+    "script_context": "UScellular\nCommercial | SAG-AFTRA, Commercial\nProject Details\nAd Agency:\nTHE MARTIN AGENCY\nProducer:\nTAYLOR BJORN BRO\nProduction Company:\nTOOL\nDirector:\nADRIANA CRUZ\nCasting Company:\nRoss Lacy Casting\nCasting Director:\nROSS LACY\nContact Email:\ninfo@rosslacycasting.com\nContact Phone:\n(323) 330-1020\nCasting Associate:\nSHANE SPRINGER\nConflicts:\nWIRELESS SERVICE PROVIDER\nUsage/Run:\nTELEVISION INCLUDING, SPOT MARKET, LOCAL CAB LE, INTERNET INCLUDING SOCIAL MEDIA, AND INDUSTRIAL INCLUDING IN-THEATERS. \nIT IS THE INTENTION OF THE MARTIN AGENCY TO OBTAIN ALL THE RIGHTS PROVIDED IN THE STANDARD EMPLOYMENT CONTRACT INCLUDING, BUT NOT LIMITED \nTO, INTERNET, NEW MEDIA, THEATRICAL AND INDUSTRIAL. Active (12)\nFEMALE USCELLULAR EMPLOYEE\nPrincipalSAG-AFTRA SCALE\nWoman 35 - 50 Black, White\nREAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE COMEDY / IMPROV CHOPS. LIKABLE, APPROACHABLE, FRIENDLY, AND VERY HELPFUL. GREAT \nACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING. \nRole Ethnic Appearance\nBlack, White\nSpot Name\nTICKETS\nRate Details\nSCALE\nWardrobe\nKHAKIS AND A BLUE SHIRT ATTIRE \nSides\nTICKETS SIDES\nVisible to Representatives and on Casting Billboard\nAudition\nLOS ANGELES\nJul 15 - Jul 16\nCallback\nLOS ANGELES\nJul 18\nFitting\nLOS ANGELES\nJul 26\nWorking\nLOS ANGELES\nJul 29\nSubmission Note Instructions\nPLEASE SUBMIT BY 9AM TOMORROW. THANK YOU!\nRequesting Submissions From\nLos AngelesDates and Locations\nSubmission InformationDAD\nPrincipalSAG-AFTRA SCALE\nMan 35 - 50 Black, White\nREAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE COMEDY / IMPROV CHOPS. TYPICAL DAD TYPE - HE LOVES TO PLEASE HIS FAMILY. GREAT ACTOR. \nGREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING. \nRole Ethnic Appearance\nBlack, White\nSpot Name\nTICKETS\nRate Details\nSCALE\nWardrobe\nCASUAL ATTIRE\nSides\nTICKETS SIDES\nVisible to Representatives and on Casting Billboard\nAudition\nLOS ANGELES\nJul 15 - Jul 16\nCallback\nLOS ANGELES\nJul 18\nFitting\nLOS ANGELES\nJul 26\nWorking\nLOS ANGELES\nJul 29\nSubmission Note Instructions\nPLEASE SUBMIT BY 9AM TOMORROW. THANK YOU!\nRequesting Submissions From\nLos AngelesDates and Locations\nSubmission InformationMOM\nPrincipalSAG-AFTRA SCALE\nWoman 35 - 50 Black, White\nREAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE COMEDY / IMPROV CHOPS. TYPICAL MOM TYPE. GREAT WITH FACIAL EXPRESSIONS AND \nCOMEDIC TIMING. \nRole Ethnic Appearance\nBlack, White\nSpot Name\nTICKETS\nRate Details\nSCALE\nWardrobe\nCASUAL ATTIRE\nSides\nTICKETS SIDES\nVisible to Representatives and on Casting Billboard\nAudition\nLOS ANGELES\nJul 15 - Jul 16\nCallback\nLOS ANGELES\nJul 18\nFitting\nLOS ANGELES\nJul 26\nWorking\nLOS ANGELES\nJul 29\nSubmission Note Instructions\nPLEASE SUBMIT BY 9AM TOMORROW. THANK YOU!\nRequesting Submissions From\nLos AngelesDates and Locations\nSubmission InformationSON\nPrincipalSAG-AFTRA SCALE\nMan 10 - 12 Black, White\nREAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE COMEDY / IMPROV CHOPS. TYPICAL KID - INNOCENT AND ENTHUSIASTIC. GREAT WITH FACIAL \nEXPRESSIONS AND COMEDIC TIMING. \nRole Ethnic Appearance\nBlack, White\nSpot Name\nTICKETS\nRate Details\nSCALE\nWardrobe\nCASUAL ATTIRE\nSides\nTICKETS SIDES\nVisible to Representatives and on Casting Billboard\nAudition\nLOS ANGELES\nJul 15 - Jul 16\nCallback\nLOS ANGELES\nJul 18\nFitting\nLOS ANGELES\nJul 26\nWorking\nLOS ANGELES\nJul 29\nSubmission Note Instructions\nPLEASE SUBMIT BY 9AM TOMORROW. THANK YOU!\nRequesting Submissions From\nLos AngelesDates and Locations\nSubmission InformationDAUGHTER\nPrincipalSAG-AFTRA SCALE\nWoman 8 - 10 Black, White\nREAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE COMEDY / IMPROV CHOPS. REGULAR KID.  IMPOSSIBLE TO SAY NO TO. GREAT WITH FACIAL \nEXPRESSIONS AND COMEDIC TIMING. \nRole Ethnic Appearance\nBlack, White\nSpot Name\nTICKETS\nRate Details\nSCALE\nWardrobe\nCASUAL ATTIRE\nSides\nTICKETS SIDES\nVisible to Representatives and on Casting Billboard\nAudition\nLOS ANGELES\nJul 15 - Jul 16\nCallback\nLOS ANGELES\nJul 18\nFitting\nLOS ANGELES\nJul 26\nWorking\nLOS ANGELES\nJul 29\nSubmission Note Instructions\nPLEASE SUBMIT BY 9AM TOMORROW. THANK YOU!\nRequesting Submissions From\nLos AngelesDates and Locations\nSubmission InformationWRESTLER\nPrincipalSAG-AFTRA SCALE\nMan 30 - 50 White\nREAL TO CHARACTER LOOKING. INTERESTING FACE. HUGE COMEDY / IMPROV CHOPS. BUILT LIKE A BRICK SHIPYARD - HE'S A CLASSIC PRO WRESTLER TYPE \nSTRAIGHT OUT OF THE GOLDEN ERA. THINK BICEP FLEXING, HAIR FLIPPING, CAM ERA HOGGING SHOWBOAT. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS \nAND COMEDIC TIMING. \nRole Ethnic Appearance\nWhite\nSpot Name\nTICKETS\nRate Details\nSCALE\nWardrobe\nTANK TOP ATTIRE - WE WANT TO SEE YOUR ARMS\nSides\nTICKETS SIDES\nVisible to Representatives and on Casting Billboard\nAudition\nLOS ANGELES\nJul 15 - Jul 16\nCallback\nLOS ANGELES\nJul 18\nFitting\nLOS ANGELES\nJul 26\nWorking\nLOS ANGELES\nJul 29\nSubmission Note Instructions\nPLEASE SUBMIT BY 9AM TOMORROW. THANK YOU!\nRequesting Submissions From\nLos AngelesDates and Locations\nSubmission InformationPUPPETEER\nPrincipalSAG-AFTRA SCALE\nMan, Woman 25 - 55 Any Ethnic Appearance\nMUST HAVE HAND HELD PUPPETEER EXPERIENCE - PLEASE MARK SUBMISSION NOTES WITH EXPERIENCE.  \nHUGE COMEDY / IMPROV CHOPS. GREAT ACTOR. GREAT WITH COMEDIC TIMING.  WILL ALSO BE THE VOICE OF THE PUPPET.\nRole Ethnic Appearance\nAboriginal / Torres Strait Islander, Ethnically Ambiguous, Black, Native American, White, East Asian, East Indian / South Asian, Eastern European, Latinx / Hispanic, Maori, Mediterranean, Middle\nEastern, Paci\u0000c Islander, Southeast Asian\nSpot Name\nTICKETS\nRate Details\nSCALE\nWardrobe\nCASUAL ATTIRE. PLEASE BRING A SOCK PUPPET\nSides\nTICKETS SIDES\nVisible to Representatives and on Casting Billboard\nAudition\nLOS ANGELES\nJul 15 - Jul 16\nCallback\nLOS ANGELES\nJul 18\nFitting\nLOS ANGELES\nJul 26\nWorking\nLOS ANGELES\nJul 29\nSubmission Note Instructions\nPLEASE SUBMIT BY 9AM TOMORROW. THANK YOU!\nRequesting Submissions From\nLos AngelesDates and Locations\nSubmission InformationMALE USCELLULAR EMPLOYEE\nPrincipalSAG-AFTRA SCALE\nMan 35 - 50 White, Latinx / Hispanic\nREAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE COMEDY / IMPROV CHOPS. LIKABLE, APPROACHABLE, FRIENDLY, AND VERY HELPFUL. GREAT \nACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING. \nRole Ethnic Appearance\nWhite, Latinx / Hispanic\nSpot Name\nSPREAD THE WORD\nRate Details\nSCALE\nWardrobe\nKHAKIS AND A BLUE SHIRT ATTIRE \nSides\nSPREAD THE WORD SIDES\nVisible to Representatives and on Casting Billboard\nAudition\nLOS ANGELES\nJul 15 - Jul 16\nCallback\nLOS ANGELES\nJul 18\nFitting\nLOS ANGELES\nJul 26\nWorking\nLOS ANGELES\nJul 29\nSubmission Note Instructions\nPLEASE SUBMIT BY 9AM TOMORROW. THANK YOU!\nRequesting Submissions From\nLos AngelesDates and Locations\nSubmission InformationSMOOTH JAZZ DJ\nPrincipalSAG-AFTRA SCALE\nMan 40 - 55 Black, White\nREAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE COMEDY / IMPROV CHOPS. HE HAS A CALMING, DEEP BARITONE VOICE THAT SOUNDS LIKE IT'S \nSTRAIGHT OUT OF THE 70'S SCHOOL OF RADIO DJ'S. HE HAS A SLIGHTLY DATED, ECCENTRIC LOOK. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND \nCOMEDIC TIMING. \nRole Ethnic Appearance\nBlack, White\nSpot Name\nSPREAD THE WORD\nRate Details\nSCALE\nWardrobe\nA BIT RETRO 70S DJ ATTIRE\nSides\nSPREAD THE WORD SIDES\nVisible to Representatives and on Casting Billboard\nAudition\nLOS ANGELES\nJul 15 - Jul 16\nCallback\nLOS ANGELES\nJul 18\nFitting\nLOS ANGELES\nJul 26\nWorking\nLOS ANGELES\nJul 29\nSubmission Note Instructions\nPLEASE SUBMIT BY 9AM TOMORROW. THANK YOU!\nRequesting Submissions From\nLos AngelesDates and Locations\nSubmission InformationREPORTER IN A STORM\nPrincipalSAG-AFTRA SCALE\nWoman 25 - 35 Multiple Ethnic Appearnces\nREAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE COMEDY / IMPROV CHOPS. SHE'S A PROFESSIONAL AND COMPOSED NETWORK NEWS REPORTER \nON THE SCENE DURING A TORRENTIAL DOWNPOUR. SHE SHOULD HAVE LONG HAIR THAT WILL BLOW IN THE WIND. GREAT ACTOR. GREAT WITH FACIAL \nEXPRESSIONS AND COMEDIC TIMING. \nRole Ethnic Appearance\nWhite, East Asian, East Indian / South Asian, Paci\u0000c Islander, Southeast Asian\nSpot Name\nSPREAD THE WORD\nRate Details\nSCALE\nWardrobe\nPROFESSIONAL TV NEWS ANCHOR CAUGHT IN A STORM ATTIRE\nSides\nSPREAD THE WORD SIDES\nVisible to Representatives and on Casting Billboard\nAudition\nLOS ANGELES\nJul 15 - Jul 16\nCallback\nLOS ANGELES\nJul 18\nFitting\nLOS ANGELES\nJul 26\nWorking\nLOS ANGELES\nJul 29\nSubmission Note Instructions\nPLEASE SUBMIT BY 9AM TOMORROW. THANK YOU!\nRequesting Submissions From\nLos AngelesDates and Locations\nSubmission InformationWATER COOLER TALKER\nPrincipalSAG-AFTRA SCALE\nWoman 45 - 55 White\nREAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE COMEDY / IMPROV CHOPS. SHE'S THE QUINTESSENTIAL OFFICE GOSSIP. SHE'S GOOD WITH A \nCOVERT VOICE THAT SOUNDS LIKE A STAGE WHISPER. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING. \nRole Ethnic Appearance\nWhite\nSpot Name\nSPREAD THE WORD\nRate Details\nSCALE\nWardrobe\nBUSINESS ATTIRE\nSides\nSPREAD THE WORD SIDES\nVisible to Representatives and on Casting Billboard\nAudition\nLOS ANGELES\nJul 15 - Jul 16\nCallback\nLOS ANGELES\nJul 18\nFitting\nLOS ANGELES\nJul 26\nWorking\nLOS ANGELES\nJul 29\nSubmission Note Instructions\nPLEASE SUBMIT BY 9AM TOMORROW. THANK YOU!\nRequesting Submissions From\nLos AngelesDates and Locations\nSubmission InformationDOUG\nPrincipalSAG-AFTRA SCALE\nMan 35 - 50 White\nREAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE COMEDY / IMPROV CHOPS. HE CAN EXPRESS GUILT AS CLEAR AS THE PINK FROSTING ON HIS \nFACE. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING. \nRole Ethnic Appearance\nWhite\nSpot Name\nSPREAD THE WORD\nRate Details\nSCALE\nWardrobe\nBUSINESS ATTIRE\nSides\nSPREAD THE WORD SIDES\nVisible to Representatives and on Casting Billboard\nAudition\nLOS ANGELES\nJul 15 - Jul 16\nCallback\nLOS ANGELES\nJul 18\nFitting\nLOS ANGELES\nJul 26\nWorking\nLOS ANGELES\nJul 29\nSubmission Note Instructions\nPLEASE SUBMIT BY 9AM TOMORROW. THANK YOU!\nRequesting Submissions From\nLos AngelesDates and Locations\nSubmission Information",
+    "processing_timestamp": "2024-08-08 16:03:15.848875"
+}

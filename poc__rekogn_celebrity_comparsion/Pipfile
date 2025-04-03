@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+boto3 = "*"
+botocore = "*"
+mypy-boto3-s3 = "*"
+mypy-boto3-rekognition = "*"
+slack-sdk = "*"
+snowflake-connector-python = "*"
+
+[dev-packages]
+ruff = "*"
+
+[requires]
+python_version = "3.12"

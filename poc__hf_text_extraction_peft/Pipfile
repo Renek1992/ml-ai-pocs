@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+ipykernel = "*"
+transformers = "*"
+datasets = "*"
+evaluate = "*"
+torch = "*"
+peft = "*"
+setuptools = "*"
+ipywidgets = "*"
+accelerate = "*"
+loralib = "*"
+huggingface-hub = {extras = ["cli"], version = "*"}
+scikit-learn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"

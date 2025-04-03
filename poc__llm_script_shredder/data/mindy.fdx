@@ -1,0 +1,3786 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="2">
+
+  <Content>
+    <Paragraph Type="New Act">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps">cold open</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="7/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BEVERLY"></CharacterArcBeat>
+          <CharacterArcBeat Name="COLETTE"></CharacterArcBeat>
+          <CharacterArcBeat Name="TAMRA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Reception area - morning</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Beverly watches as Colette and Tamra play charades. The office phone RINGS. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Colette</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I got one, I got one!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Colette stands and acts out “answering a phone.” </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Tamra</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hold the banana! Banana face! Banana Scarface. Bring the banana to your face! Surfs up banana! </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Colette acts out “answering a phone” more urgently as the phone continues to ring. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Tamra (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t know what you’re doing. This is nothing!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Beverly answers the phone. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Beverly</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(into phone)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Shulman and Associates.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to Tamra and Colette)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is that still the name of this place? </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Colette shrugs. She has no idea. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Tamra</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Shrugging! Shrugging banana! Banana phone shrug! Kerri Shrug! </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Colette falls to a frustrated pile on the floor. Mindy rushes past wearing an oversized Star-Lord graphic tee over her dress. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Beverly</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(into phone)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Call back another time. </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4 3/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ANNA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MINDY"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Mindy’s office - continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy bursts into her office, surprised to find Anna sitting at her desk. Anna looks up curtly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mindy. Hello. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Anna gets right back to work. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re not Morgan. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy rushes around to the other side of her desk to check the floor. No Morgan. Annoyed, Anna closes her laptop as Mindy continues to search for Morgan. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Morgan! I know you’re in here, I smell lake water. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He’s not here. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy sniffs her own armpit. Anna grimaces. Mindy shrugs and plops down in the chair across from Anna. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then why are you? You know this is my office, right? Are you gaslighting me? Because Ben told me about reddit, and I know that’s a thing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Reddit is the place people who don’t like to use an internet that is pleasing to the eye go to complain about everything but how crappy the website looks. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I see.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy thinks about this for a moment. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You know the founder of reddit personally, don’t you? You’re prematurely invited to his future son’s bar mitzvah, aren’t you?  You’re just waiting for me to stop talking and leave. Am I right? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes. Will that be soon? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No. Because I can’t find Morgan and Ben’s gonna break up with me. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Anna sighs. She gives in. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Alright. I’ll listen. Who is Ben? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Seriously? He’s my super hot boyfriend. We make out pretty publicly in this hospital on the daily. Do you just completely block me out? Actually don’t answer that. I’m very fragile right now. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ll keep an eye out in the future.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Thank you. We’ll try and be louder. Now, can you help me, please? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t think so. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You haven’t even heard what the problem is.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes, but I have my own problem. That’s why I’m in your office. I’m hiding from a former patient and under no circumstances can she find me. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy’s eyes light up. Maybe she and Anna can be friends after all...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Did you sleep with her husband? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No. I would never do that. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(surprised)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are you a good person? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t think so. My patient thinks I’m dead. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Exsqueeze me? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>She tried to form a bond with me outside of the hospital. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You mean a friendship. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So you told her you were dead? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Of course not. If I told her myself, she’d never believe me. I had to create a realistic scenario. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You faked your own death? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes. I’m not proud. But, also, I am. Very much so. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Honestly, that’s amazing. I’m embarrassed I never thought of it. I respect you a little more now, Anna. You cool. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t feel very cool. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, neither do I. Look at me. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy stands, showing off her outfit. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You think I’m thrilled to be wearing this creepy Starfish T-shirt?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hell no. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy pulls off the shirt. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I got up at 4 AM this morning to stand in line at a comic book shop to get some sort of magic figurine for Ben because he had an early shift. Yeah, I’m a cool ass girlfriend. Except, I didn’t realize every extra from Star Trek would be there too and the line never moved. I didn’t even get the stupid doll. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>If you think its stupid, why does it matter? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Because it’s important to Ben, and compromising is the key to a healthy relationship, and something else Chrissy Teigen said.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Maybe he’d like the shirt. You could give him that. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Please. He already has like seven of these.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(realizing)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Tell me more about this faking your own death thing. How does it work? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s different every time. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’ve done it more than once? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Seventeen times. It’s the most effective way to avoid basic social interaction. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So you just come up with some sort of story and then-</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy’s phone RINGS. She grabs it from her purse. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(into phone)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Morgan? Hello? Morgan! I can’t hear you. I said I can’t hear you. How many times do I have to tell you, you don’t have an underwater phone? </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy ends the call, irritated. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He always calls me when he’s taking a bath. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She shoves the phone back in her purse, and looks up. Anna is no longer at the desk. Nowhere to be found.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Holy shit. She’s dead. </Text>
+    </Paragraph>
+    <Paragraph Type="End of Act">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps">END COLD OPEN</Text>
+    </Paragraph>
+    <Paragraph Type="New Act">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps">Act one</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="JEREMY"></CharacterArcBeat>
+          <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Elevator - same time</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeremy watches as Morgan struggles to make a phone call. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(into phone)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hello? Hello? Hello? Hello? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Morgan - </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(into phone)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hold on. </Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to Jeremy)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m on a call. </Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(into phone)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m so sorry. Hello. Hello. Hello. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Morgan, we’re in the elevator. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(into phone)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You know what, I gotta go. I can’t hear you because </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">someone </Text>
+      <Text>won’t stop jabbering. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Morgan stuffs his phone into his pocket. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I was trying to tell you that your phone won’t work in the elevator. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, there’s no way of knowing because you were drowning out Dr. L. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes. You’re right. I am the reason all cell phones don’t work in elevators. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No you’re not. Cell phones never work in elevators. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeremy stares at Morgan. Nowhere to go from here. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Anyway, guess what happened to me this morning?  </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Something about the bath again? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, after that. I was minding my own business, walking into oncoming traffic when I saw him -- Ray Romano! </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Wow. That is...neat. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re damn right its neat. I ran back over to the sidewalk and introduced myself. I met Ray Romano! </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I didn’t know you were such a fan. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are you kidding me. Those eyes...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You know, some people say he and I look alike. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Nope. They’re wrong. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>When I turn to the side-</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MorgaN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What are you talking about? You’re a man and he’s a...god. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I wouldn’t go that far. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The elevator doors open. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sorry, Dr. R. I don’t see it. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Morgan steps out of the elevator and grabs a passing nurse by the shoulders.  </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I just met Ray Romano! </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Annoyed, Jeremy forgets to step out of the elevator. The doors close. </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 2/8" Page="9" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BEVERLY"></CharacterArcBeat>
+          <CharacterArcBeat Name="COLETTE"></CharacterArcBeat>
+          <CharacterArcBeat Name="JODY"></CharacterArcBeat>
+          <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
+          <CharacterArcBeat Name="TAMRA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Reception area - a little later</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Colette, Beverly, Tamra, and Jody listen intently to Morgan’s story. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He was just standing there on the street looking around. Like a person! </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Colette</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And you walked right up to him? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He walked up to me! Acted like he knew me for years. He liked my shoes. We’re hanging out this weekend. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Tamra</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(surprised)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Really? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Really. So, if you wanted to get back together on Saturday, I’m not available.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tamra shakes her head in disgust. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m gonna go call Ray and make sure our plans are still on. </Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to Tamra)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But seriously about Saturday - let me know because I can see if he and I can reschedule. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tamra rolls her eyes. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Tamra</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Bye Morgan. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Morgan walks off. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Tamra (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Not like I’d ever get back with him, but, is Morgan legit now? </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeremy pokes his head out of his office. He needs to hear this answer. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ve never felt compelled to talk to him for more than thirty seconds until this very moment. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Beverly</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I slept with Ray Romano once. The mother character in his show is based on me. </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 3/8" Page="10" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ANNA"></CharacterArcBeat>
+          <CharacterArcBeat Name="JEREMY"></CharacterArcBeat>
+          <CharacterArcBeat Name="MINDY"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Jeremy’s office - later</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeremy’s at his desk, waiting. Nervous. Anna enters. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Please sit down. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Anna sits. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Anna, I need to tell you something very serious. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I know you’re attracted to me. We’ve been through this. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, no. Not that. What I have to say to you now is the biggest secret of my life. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do you have a boyfriend?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t. Anna, this is hard for me. If you could just let me get through it...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m sorry. Go ahead. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ve kept this secret for a long time because I never wanted it to define me. But now, due to recent unexplainable events, I’m feeling a little left out and thinking maybe now is the right time to tell everyone that...Ray Romano is my cousin. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Anna stares at him blankly. More so than usual. Jeremy waits for her to say something. She doesn’t. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What do you think? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>About what? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My secret. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That was it? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes. Ray Romano is my cousin. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I have absolutely no idea who that is. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A head covered in a black ski mask pops in. It’s Mindy. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Psst! Anna, let’s go. </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 2/8" Page="11" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BEN"></CharacterArcBeat>
+          <CharacterArcBeat Name="JODY"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Doctor’s lounge - same time</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ben stands, smiling, waiting for the person behind the refrigerator door to stand and reveal themselves.  </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The door closes, revealing Jody. Ben is surprised. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You were expecting Mindy, I presume. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah. Any idea where she is?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>None at all. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Damn. I have unbelievable news. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ben hands Jody an envelope. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And you want to share it with me? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Not really, but Mindy isn’t here and I’m excited. Just open it. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jody pulls a slip of paper from the envelope and reads it to himself. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>A few weeks ago I entered Mindy in a Best Mom contest. And she won! </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jody continues to stare at the paper, a slow smile creeping across his face. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Isn’t that great? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You surprise me, Ben. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How do you mean? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I never knew you were a jokester. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jody stuffs the paper into the envelope and hands it back to Ben. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ve pulled a prank or two back in my day. Once, I stole father’s pistol and well, I still have it. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ben furrows his brow. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, that’s not a prank. And neither is this.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jody nods and smiles, patting Ben on the back as he walks out. </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="12" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. upper Stairwell - moments later</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ben walks down the stairs. He hears two women talking, and once he realizes one is Mindy he speeds up to catch her. </Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>Cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="13" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ANNA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MINDY"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. lower Stairwell - same time</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy, rips off the ski mask and hands it to Anna. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I got a lot of good stuff. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy pulls a plastic tombstone, fake spiderwebs, and pumpkin seeds from her bag. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>These are children’s toys that even children don’t want. You don’t need any of this to fake your death. </Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>Cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="13" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ANNA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MINDY"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Upper stairwell - same time</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Upon hearing this Ben stops in his tracks to listen. </Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>Back to:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 6/8" Page="13" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ANNA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MINDY"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Lower stairwell - same time</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Honestly, I really didn’t know what to get, but these pumpkin seeds are delicious if you eat each one with a spoonful of melted chocolate. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Material items are not important. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t start talking crazy, Anna. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>All you need is one vital skill - the ability to disappear at a moment’s notice. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Anna opens the spiderwebs and hands them to Mindy. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MindY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I really think there’s a way we can work these in. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy quickly tangles the webs in her hair. She struggles to get them out, only making it worse. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay, maybe not. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>When she looks up, Anna’s gone. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Jesus Christ. You did it again! </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Anna enters the stairwell through the nearby door. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(impressed)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I didn’t even know there was a door there. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy looks around. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Actually, since when do we have a stairwell? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No time for stupid questions. We have a lot of work to do. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay, but here’s the thing. I only want Ben to think something terrible happened to me for a few days. Maybe a week. Basically just long enough to make sure he’s not  mad when he finds out I didn’t get his action figure thing. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You want to come back to life? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Obviously. I’m not a crazy person. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Anna thinks for a moment. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s not possible. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, you’re gonna have to figure it out. If I’m dead for too long, Ben will find a new girlfriend or the secret erotic letters I write to him when I’m ovulating. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Fine. But you have to help me hide from my patient. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You can use my office. I’ll be dead anyway. </Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>Back to:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="15" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="MINDY"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. upper Stairwell - continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ben can’t believe what he just heard. He looks down at the “Best Mom” letter in disgust. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Anna! How do you keep doing this? Is there a trap door? </Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(coughing)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dammit! I swallowed a web. </Text>
+    </Paragraph>
+    <Paragraph Type="End of Act">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps">End act one</Text>
+    </Paragraph>
+    <Paragraph Type="New Act">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps">Act two</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 3/8" Page="16" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="MINDY"></CharacterArcBeat>
+          <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>int. Mindy’s apartment - night</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy stares at a picture of Ben on her phone, contemplating her next move. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Screw it. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She sends Ben a text: Can’t see you tonight. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Perfect. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>There’s a KNOCK at her door.  </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Shit. Do dead people answer the door? </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She stands up, contemplating. More KNOCKING. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What would Elvis do? </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy walks over to the door and puts her hand on the knob. It starts to turn. Someone’s opening it from the outside.  </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Did I foreshadow my own death? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dr. L, stop holding the door so I can break in!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy lets go of the knob and whips open the door. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Morgan, what the hell? Why are you breaking into my house? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What else am I supposed to do if you don’t answer?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Morgan holds a Star-Lord action figure out to Mindy. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I can’t leave this priceless piece of plastic in the hall. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy can’t believe her eyes. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How did you get this? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Easy. Just slept on the street for a few days. Not too far from my usual spot. I was fourth in line. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Thank you so much. I know I never repay you, but you have no idea what this means. I can live again. And I get to have sex tonight. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It was two hundred dollars, so if you could-</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy grabs the action figure and slams the door. </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 1/8" Page="17" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BEN"></CharacterArcBeat>
+          <CharacterArcBeat Name="MINDY"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Mindy’s apartment - later</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy plops down on the couch next to Ben, excited. He’s pretty skeptical. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What’s the deal with the last minute change of plans? I thought you couldn’t hang out tonight.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t worry about it. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ben narrows his eyes, trying to figure her out. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Did something happen? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Actually yeah, something pretty crazy. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy pulls the action figure out and hands it to Ben. He’s completely shocked. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why do you look so surprised? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m not. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He is. But he also really wanted this action figure. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Unbelievable. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ben, when I promise you I’m gonna stand in line for hours and make nice with strangers who have only ever worn Converse sneakers, I’m very drunk. But I do it. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is really cool, Mindy.   </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No. It’s very much the opposite of that. But you’re welcome. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Thank you. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He still can’t figure out how she got this, but he kisses her anyway. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I also got a T-shirt but I used it to clean up a C-section. </Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"></Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 3/8" Page="18" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ANNA"></CharacterArcBeat>
+          <CharacterArcBeat Name="BEVERLY"></CharacterArcBeat>
+          <CharacterArcBeat Name="COLETTE"></CharacterArcBeat>
+          <CharacterArcBeat Name="JEREMY"></CharacterArcBeat>
+          <CharacterArcBeat Name="JODY"></CharacterArcBeat>
+          <CharacterArcBeat Name="MINDY"></CharacterArcBeat>
+          <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Meeting room - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeremy stands in front of the entire practice</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Thank you all for coming. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Beverly rises and starts to leave. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Beverly, what are you doing? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Beverly</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There’s more? </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Beverly sighs and sits back down. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There is in fact, much more. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Morgan stands. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MorGAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Just want to let everyone know if you have any questions for Ray Romano, you can put them in the crumpled McDonald’s bag at the reception desk. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everyone starts chattering about this. Jeremy can’t hide his frustration. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Enough! Morgan is not an expert on Ray Romano. I am. Ray Romano is my cousin! </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Wait, really? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes, really. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>colette</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Since when? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My entire life, you imbeciles!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay, obviously you were alive like seven years before he was even born. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Excuse me? Ray is much older than I. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Than I? Please. You’re not selling this lie with good grammar. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What about your accent? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What about it?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t like it. Is now a good time to tell you that? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m sorry, is this Ray character the guy you thought everyone would make fun of you for knowing?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes, Anna. Thank you for that. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re welcome. I’m leaving now because I still don’t care about any of this. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Anna walks out. Jeremy takes a deep breath. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>If everyone could just calm down, I’d be happy to answer any questions about my family. Which, to reiterate, includes Ray Romano. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why should we be impressed that you know your own cousin? I’ve had relations with three of mine. No one gave me a gold star. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Because that’s disgusting. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ColETTE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, it’s fine. They’re all married to other cousins now. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Jeremy, are you honestly saying it’s just as impressive for you to know your own cousin as is it for Morgan -- a man who’s shoes don’t even have soles, to know a celebrity? </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Morgan looks down at his feet. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dammit! They’re on my other pair!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeremy has no idea what to say. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Beverly</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, who cares if you met your own cousin. No one’s interested to know that I had dinner with my brother Robert Durst last week. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everyone begins shouting questions at Beverly.  </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 2/8" Page="21" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="JODY"></CharacterArcBeat>
+          <CharacterArcBeat Name="MINDY"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Doctor’s lounge - later</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy eats pumpkin seeds - one each in a giant spoonful of fudge. Jody watches in disgust. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You will die at a young age. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Like an Egyptian Princess. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy grabs another spoonful. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is that a serving spoon? </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy shrugs. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s the smallest spoon I own. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are you alright? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t know. I think Ben’s mad at me, but I don’t know why. I gave him something last night that he was supposed to love, but he didn’t perform any sexual favors in return. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, I must be honest, I never  understood Ben as a man until the other day when he told me a hilarious joke about nominating you for a Best Mother contest. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy thinks about this for a second. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What now? Me, a good mom? Are you sure Ben said that?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes. If I remember correctly, he’s claiming you won the “Turnpike Mother of the Year Award.” He wrote a very nice fake letter. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Huh. Maybe Ben’s funny. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy holds out a giant spoonful to Jody. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Seriously, you have to try this. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is it like peach cobbler? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Not at all. </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 1/8" Page="22" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ANNA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MINDY"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. mindy’s office - later</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy sits at her desk. Anna rushes in and slams the door behind her. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Valerie almost saw me. We need to tell the nurses to stop any and all small talk with patients. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t know who Valerie is, but I agree. Small talk is the worst. How are you, by the way? </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy rises and Anna takes her seat. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Whoa. What am I doing? This is my office. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She pulls Anna up. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re a very powerful woman. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Anna takes a seat across from Mindy. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Valerie is my patient. I don’t know how long I can keep up this char-ade. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Of course you would pronounce that word that way. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mindy, I highly discourage you from faking your death. It’s a terrible idea. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No worries, I don’t even need to anymore. I got the action figure. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Did Brian like it? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ben. Like the handsome television doctor Benjamin Warren. Which makes me Miranda Bailey. </Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(realizing)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hey, I’m a powerful woman too. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Anna stares at her blankly. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sorry. I forgot you don’t know anything good. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mindy, do you care about Ben Warren?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy smiles at this mistake. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Of course I do. He’s the best guy I’ve ever dated. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then why would ever want him to think you were dead? I know what I’ve done is wrong. But those seventeen people didn’t mean anything to me. If you love Ben-</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay, that’s enough. If you want to stay in here you need to support me in every way starting now. Got it? </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Anna nods. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do you think I’m a good mother? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You have a child? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are you kidding? You’ve met him. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Have I? Don’t feel bad. Children aren’t exactly my thing. I think of them as adorable statues that irritate me because they’re not actually statues. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s very disturbing. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Anna shrugs. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Would you still like my opinion of your parenting skills? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Nah, I’m good. </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="24" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BEN"></CharacterArcBeat>
+          <CharacterArcBeat Name="MINDY"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Ben’s house - front door</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ben opens the door to find Mindy on his doorstep holding a “Best Dad” balloon. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Surprise!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3 4/8" Page="24" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BEN"></CharacterArcBeat>
+          <CharacterArcBeat Name="MINDY"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Ben’s house - moments later</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ben sits down next to Mindy on the couch. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mindy, what’s going on? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Me what’s going on? No, you going on. What? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Huh?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, that didn’t make any sense. You’re acting weird and I’m trying to fix it. With a balloon. And sex. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy puts her hand on his leg. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sadly they refused to put anything suggestive on the other side of something that says “Best Dad.” </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I appreciate that, but we need to talk. Not have balloon sex. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So you are pissed at me? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, I am. Mindy, I overheard you talking to Anna. I know you were planning to convince me you died. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But I didn’t! And I wouldn’t have. I was just considering it for a second. Like when I thought about taking that step class until I realized they’re just stepping in place. Why wouldn’t you step towards something? Like a bar or a hot dog stand? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I wish I believed you, but I know you didn’t get the action figure yourself. I don’t know how you ended up with it, but I assume Morgan was involved somehow. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s a pretty offensive assumption. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Morgan asked me for the $200 it cost him to get it. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dammit! </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s not the part that should bother you. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I know. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I can’t believe you would want me to think you were dead for even a second. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ben gets up and starts pacing around. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And you know what, that’s not even the worst part. What about Lindsay? Did you even think about her? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Obviously I didn’t. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy realizes what she just said. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Jesus. I didn’t even think about Lindsay. God, what is wrong with me? You’re totally right The whole thing was a terrible idea. I know that. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m glad. But-</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hold on a sec. If you think it’s hilarious that I’m such a shitty mom, why does this bother you so much? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What are you talking about? I don’t think you’re a shitty mom. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Jody said you orchestrated this crazy prank with some Best Mom contest. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That wasn’t a prank. I nominated you for the Turnpike Mom of the Year Award. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ben walks out of the room and quickly returns with the envelope. He hands it to Mindy. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You won, by the way. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy opens the envelope and reads the letter. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay, Jody told me you made a fake letter. Nice touch with the letterhead though. And the name. Seriously, the New Jersey Turnpike thinks I’m a good mom? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mindy, this letter isn’t fake. Jody’s an idiot. Keep reading. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy goes back to the letter. She starts to get emotional as she reads on. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(moved)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The New Jersey Turnpike thinks I’m a good mom. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ben nods. Mindy looks from him to the letter. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How could you not think about Lindsay? She loves you. Imagine how she would feel if you died. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, I’d leave her all my clothes. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy catches Ben’s face. He’s not amused. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sorry. I know. It would be terrible. I can’t believe I didn’t think of her. I was wrong, okay? But, you were too. Obviously I’m a shitty mom and a shitty girlfriend. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t think that. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, you should. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Maybe if you took yourself a little more seriously you wouldn’t forget about Lindsay and get spiderwebs stuck in your hair. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy swipes at her hair instinctively. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Maybe then you’d stop making excuses and start seeing yourself as the mom I know you are. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy lets this sink in. </Text>
+    </Paragraph>
+    <Paragraph Type="End of Act">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps">End act two</Text>
+    </Paragraph>
+    <Paragraph Type="New Act">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps">Act three</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 3/8" Page="28" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="JEREMY"></CharacterArcBeat>
+          <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Jeremy’s office - morning</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Morgan enters, sobbing quietly to himself. He places a file on Jeremy’s desk. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Morgan, are you alright? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mhmm. So great. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Morgan attempts a thumbs up. He’s shaking so much it turns sideways. An “OK” thumb. Jeremy is concerned. He gets up and leads Morgan to a chair. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JereMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sit. Take a breath. What’s going on? </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Morgan breathes deeply, calming himself. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You don’t want to hear about it. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeremy realizes what this is about. His tone changes. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Let me guess, Ray cancelled on you to go see Transformers 17 with Tim Allen? </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Morgan starts to cry again. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Morgan, how do you think I feel? I’ve kept my relation to Ray a secret for years, afraid all anyone would do was mock me. Once Beverly set me up with her niece, and when she introduced herself as Debra I walked out of the restaurant. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dr. R-</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But then you run into him, MY cousin, on the street, and everyone’s just thrilled for you. It was unbelievable. I thought maybe these people had grown. Maybe they’d be accepting of my secret, and we could talk about our favorite ELR episodes together. Like old times with my university chums. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dr. R-</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I know it’s selfish. But, what’s wrong with being a little selfish sometimes? Why else do you think I came to America?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dr. R - Ray Romano died last night. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeremy’s face falls. </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 5/8" Page="29" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ANNA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MINDY"></CharacterArcBeat>
+          <CharacterArcBeat Name="VALERIE"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. mindy’s office - later</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Anna’s old patient, VALERIE, sits across from Mindy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Valerie, I’m afraid I have some good news. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Valerie doesn’t understand this sentence. Who would? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Valerie</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>About my baby? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, no. Your kid’s perfectly fine. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Valerie</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t understand. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Have you ever seen Encino Man? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Valerie</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Perfect. So, in this scenario  you’re Sean Astin, but instead of finding a caveman, it’s actually a prickly but competent doctor.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Valerie shakes her head. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Valerie</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I was thinking of Son in Law. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dammit, no great comparison there. The thing is Valerie, a few years ago at another practice, you were a patient of Dr. Ziev. And after your first son was born, something very tragic happened. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Valerie</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dr. Z passed away in a train fire. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Jesus Christ. Really? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Valerie</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sorry, it’s still so shocking. Except that it’s not. Because, Dr. Ziev did not die. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Valerie</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Excuse me? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There was no train fire. Just a series of unfortunate events. A fault in our stars. A...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy trails off. She can’t think of any other relevant book or movie titles. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Valerie</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dr. Z is alive? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>She is. And she’s here. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Anna appears from behind Mindy’s chair in a perfect, fluid motion. Valerie and Mindy jump. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay, was that necessary?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Anna approaches Valerie, who is now breathing heavily. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I know this is a surprise-</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Valerie</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I...I...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m sure you have questions. I can’t and won’t answer them. But I hope-</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Valerie</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t care. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Anna, I think she’s in labor. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Valerie</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Valerie’s breathing grows more rapid. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>She’s lying. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What are you talking about? She’s having contractions! </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This isn’t her first. She knows what they’re like. It’s an act. She’s doing this to get back at me. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Valerie</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Get back at you for what?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m sorry I faked a train fire because I didn’t want to be your friend. Okay? </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Valerie’s lets out a painful moan. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Weren’t you listening from behind the goddamn chair? I didn’t tell her you faked your own death. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then what is happening? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>She’s really in labor, you dumbass. </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="32" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="JEREMY"></CharacterArcBeat>
+          <CharacterArcBeat Name="TAMRA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Jeremy’s office - next morning</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeremy hangs up his cell and puts his head in his hands. Tamra enters. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Tamra</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dr. R, you have a patient. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Tamra, do I look like I can see anyone right now? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Tamra</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Probably a therapist. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeremy notices Morgan passing by in the hall. He jumps up and chases after him. </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 5/8" Page="32" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ANNA"></CharacterArcBeat>
+          <CharacterArcBeat Name="JEREMY"></CharacterArcBeat>
+          <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. hallway - continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeremy grabs Morgan desperately. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEREMY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Morgan, I’m sorry. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>For what? No one’s ever been this excited to see me. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I shouldn’t have tried to steal your thunder. Your friendship with Ray is important. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I know. I just spoke at his funeral. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Funeral? He just died yesterday! I’ve been calling family day and night trying to reach someone who could tell me what’s going on. You’re the only one he seems to have been in contact with during his last days. Can you tell me what happened? What he’s been doing recently? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He’s the kinda guy who just smiled a lot. That was the first thing I noticed. And he smelled. Better than me.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeremy nods, not surprised to hear this. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I took a picture with him the last time we hung out. Do you want to see it? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes. I really do. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Morgan pulls his shirt off to reveal a T-shirt with a photo of himself and a dog. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeremy takes this in. After a moment -- </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Morgan-</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Morgan looks down at his shirt. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Nope, sorry. Wrong one.  </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Morgan pulls this shirt off to reveal another T-shirt with a photo of himself and a different dog. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeremy takes a deeply frustrated breath. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Have you been talking about a dog this entire time? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Obviously. Who else would have a name like Ray Romano?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeremy seethes. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jeremy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t know, maybe the ACTUAL Ray Romano. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Anna stops to address this with Jeremy as she walks by. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Anna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh. I found out who he is, by the way. Morgan’s dog friend. I don’t really understand your relation. </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 2/8" Page="33" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="COLETTE"></CharacterArcBeat>
+          <CharacterArcBeat Name="JODY"></CharacterArcBeat>
+          <CharacterArcBeat Name="MINDY"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Jody’s office - later</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy waltzes in and closes the door. Jody and Colette hover over his phone. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes, that’s right. A dozen orders of chicken and dumplings. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ColeTTE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And the apples. Don’t forget! </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy walks over and hangs up the call. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ColETTE (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No! </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Colette shakes Mindy’s shoulders violently. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ColetTE (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are you crazy? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Colette, that’s enough. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Colette continues to shake her. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Colette</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You can’t hang up on Cracker Barrel! </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jody gets up and separates them. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who the hell is Cracker Barrel? Does he work with DJ Khaled? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Cracker Barrel is a delicious homestyle restaurant. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Can’t you just call them back? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Colette</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who knows. We finally convinced them to deliver. From New Jersey. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, sorry. But not that sorry because it seemed like you were just getting fruit. Lame. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Colette lunges at Mindy again. Jody stops her. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s alright, Colette. We’ll get the apples. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jody hugs her. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>See, everything’s fine. Now onto my thing. Turns out Ben really does thing I’m the Best Mom. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It wasn’t a prank? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I guess not. We got in a pretty big fight last night because you told me it was a joke. So, I need you to fix it. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Colette</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why would you listen to Jody? You’re dumber than the woman who hung up on Cracker Barrel. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That was also me. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are you absolutely sure Ben wasn’t joking? I’ve really built him up in my head as a budding comedian. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m positive. And he’s pissed. And now I have to live up to this crazy great mom standard. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Colette</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What are you talking about? You already are. You take me to cool places all the time. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, and if you ever tell Morgan we hang out without him, that’ll end like this-</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy snaps her fingers. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That was a very motherly thing to say. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But I’m not a parent like Ben. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Colette</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who cares. Leo and Lindsay love you. You’re the fun one. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Jody</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(remembering)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Like father. He smiled every night at ten past 7. Until his whiskey was gone. </Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"></Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1" Page="36" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BEN"></CharacterArcBeat>
+          <CharacterArcBeat Name="CASHIER"></CharacterArcBeat>
+          <CharacterArcBeat Name="MINDY"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Comic book shop - night</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy enters a comic book shop. She approaches the cashier. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(whispering)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Can you help me find my boyfriend? His name is Ben. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Cashier</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You can talk at a normal volume. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh. Really? </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy looks around. Several customers are perusing the shelves. It’s completely silent. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Cause I’m not really getting that vibe. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Cashier</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We sound the rap airhorn every thirty minutes. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hell yeah. Mustard on tha beat! </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>With this, Ben’s head pops out from behind one of the shelves. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mindy? </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Ben walks over to her. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I didn’t know comic book people were into rap. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We can be into anything. We’re human. But, he was joking about the airhorn. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The cashier shrugs and walks off. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Can we talk? </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 6/8" Page="37" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BEN"></CharacterArcBeat>
+          <CharacterArcBeat Name="MINDY"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Comic book store - moments later</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy and Ben sit on two beanbags in a secluded corner of the shop. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m so sorry, Ben. I really messed up. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, you did. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But, I’m kinda glad I did, because I finally understand why I’m willing to take things so far. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Your Snapchat story? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>True. I guess there are two reasons. I was trying to figure out why I was okay with letting you think I was dead. It’s because I didn’t want to disappoint you. You’re such a good person and an amazing dad. It’s a lot to live up to. When I didn’t get that action figure, I knew I screwed up. But somehow, disappointing you with the truth seemed worse than making you think I was killed in an artisan cheese fire. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Was that your story? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah. I was going for something that would make Buzzfeed. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mindy, I nominated you for the award because I think you’re a great mom. You’re a good parent in all the ways I would never think to be. You pulled an all nighter to learn the choreography of the new Beyonce video just in case Lindsay wanted to make a viral video. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That was a little for me too. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re not traditional, and I don’t want you to be. I love that you’re always yourself. That’s never gonna disappoint me. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Really? So you wouldn’t have cared that I screwed up with the Star-Lord thing?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Of course I would have cared. They only made two hundred of them! But, I wouldn’t think less of you as a girlfriend or a mom. We’re gonna fight sometimes. But if my options are fight or think you’re dead, I’m gonna choose fight. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah? </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mindy leans over awkwardly, struggling to maneuver in the beanbag as she kisses him. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Ben (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Also, it’s incredibly hot that you remembered the name Star-lord. </Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Mindy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t you ever tell anyone about that. </Text>
+    </Paragraph>
+    <Paragraph Type="End of Act">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps">End of SHOw</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Text=""/>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.50" RightIndent="-0.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">                                                              </Text>
+        <DynamicLabel Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="7.25" Type="Right"/>
+          <Tabstop Position="2.12" Type="Left"/>
+          <Tabstop Position="0.57" Type="Left"/>
+          <Tabstop Position="4.12" Type="Left"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges>
+      <Range End="6078" Start="6069"/>
+    </IgnoredRanges>
+    <IgnoredWords>
+      <Word>Alright</Word>
+      <Word>Astin</Word>
+      <Word>Beyonce</Word>
+      <Word>Buzzfeed</Word>
+      <Word>Chrissy</Word>
+      <Word>DJ</Word>
+      <Word>Dammit</Word>
+      <Word>Durst</Word>
+      <Word>ELR</Word>
+      <Word>Encino</Word>
+      <Word>Exsqueeze</Word>
+      <Word>I...I</Word>
+      <Word>Kerri</Word>
+      <Word>Khaled</Word>
+      <Word>Mhmm</Word>
+      <Word>Nah</Word>
+      <Word>Psh</Word>
+      <Word>Psst</Word>
+      <Word>Reddit</Word>
+      <Word>Scarface</Word>
+      <Word>Snapchat</Word>
+      <Word>Teigen</Word>
+      <Word>Ziev</Word>
+      <Word>a...god</Word>
+      <Word>airhorn</Word>
+      <Word>alright</Word>
+      <Word>char-ade</Word>
+      <Word>dumbass</Word>
+      <Word>gaslighting</Word>
+      <Word>gonna</Word>
+      <Word>homestyle</Word>
+      <Word>jokester</Word>
+      <Word>kinda</Word>
+      <Word>nighter</Word>
+      <Word>ok</Word>
+      <Word>reddit</Word>
+      <Word>tha</Word>
+      <Word>that...Ray</Word>
+      <Word>that’ll</Word>
+      <Word>vibe</Word>
+    </IgnoredWords>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="797" Left="87" Mode="Normal" Top="80" Width="634"/>
+
+  <TextState Scaling="100" Selection="31527,31527" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="Yes"/>
+    <Behavior PaginateAs="Action" ReturnKey="Scene Heading" Shortcut="9"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="New Act" Shortcut=":"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cold Opening">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Scene Heading" Shortcut=";"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Show/Ep.Title">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="New Act" Shortcut="&lt;"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="No" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+        </Paragraph>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">THE MINDY PROJECT</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">"Spiderwebs of Lies"</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Written by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Jamie </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Rihacek</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="112,112" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <UnanchoredScriptNotes/>
+
+  <SmartType>
+    <Characters>
+      <Character>CLAIRE</Character>
+      <Character>LUKE</Character>
+      <Character>HALEY</Character>
+      <Character>GLORIA</Character>
+      <Character>MITCHELL</Character>
+      <Character>CAMERON</Character>
+      <Character>PHIL</Character>
+      <Character>MANNY</Character>
+      <Character>Mindy</Character>
+      <Character>Anna</Character>
+      <Character>Morgan</Character>
+      <Character>Jeremy</Character>
+      <Character>Jody</Character>
+      <Character>Colette</Character>
+      <Character>Beverly</Character>
+      <Character>Tamra</Character>
+      <Character>Ben</Character>
+      <Character>Beb</Character>
+      <Character>Allie</Character>
+      <Character>Cashier</Character>
+      <Character>Valerie</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(CONT'D)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>ACT ONE</Location>
+      <Location>DUNPHY HOUSE - KITCHEN</Location>
+      <Location>JAY &amp; GLORIA'S HOUSE</Location>
+      <Location>MITCHELL &amp; CAMERON INTERVIEW</Location>
+      <Location>PHIL'S CAR / EXT. STREET</Location>
+      <Location>PHIL INTERVIEW</Location>
+      <Location>END OF ACT ONE</Location>
+      <Location>ACT TWO</Location>
+      <Location>DUNPHY HOUSE - LIVING ROOM/KITCHEN</Location>
+      <Location>STREET/COFFEE SHOP</Location>
+      <Location>END OF ACT TWO</Location>
+      <Location>ACT THREE</Location>
+      <Location>DUNPHY HOUSE</Location>
+      <Location>END OF ACT THREE</Location>
+      <Location>TAG</Location>
+      <Location>END OF SHOW</Location>
+      <Location>RECEPTION AREA</Location>
+      <Location>MINDY'S OFFICE</Location>
+      <Location>ELEVATOR</Location>
+      <Location>JEREMY'S OFFICE</Location>
+      <Location>DOCTOR'S LOUNGE</Location>
+      <Location>STAIRWELL</Location>
+      <Location>MINDY'S APARTMENT</Location>
+      <Location>MEETING ROOM</Location>
+      <Location>BEN'S HOUSE</Location>
+      <Location>ANNA'S OFFICE</Location>
+      <Location>SHULMAN AND ASSOCIATES</Location>
+      <Location>JODY'S OFFICE</Location>
+      <Location>COMIC BOOK STORE</Location>
+      <Location>UPPER STAIRWELL</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+      <TimeOfDay>A FEW MINUTES LATER</TimeOfDay>
+      <TimeOfDay>MINUTES LATER</TimeOfDay>
+      <TimeOfDay>MINDY &amp; ANNA</TimeOfDay>
+      <TimeOfDay>BEN </TimeOfDay>
+      <TimeOfDay>FRONT DOOR</TimeOfDay>
+      <TimeOfDay>CONTINOUS</TimeOfDay>
+      <TimeOfDay>NEXT MORNING</TimeOfDay>
+      <TimeOfDay>HALLWAY</TimeOfDay>
+      <TimeOfDay>SAME TIME</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowAllMarks="No" ShowAllSets="No" ShowPageColor="No">
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="1" Mark="*" Name="mm/dd/yy Production WHITE" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="2" Mark="*" Name="mm/dd/yy BLUE" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="3" Mark="*" Name="mm/dd/yy PINK" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="4" Mark="*" Name="mm/dd/yy YELLOW" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="5" Mark="*" Name="mm/dd/yy GREEN" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="6" Mark="*" Name="mm/dd/yy GOLDENROD" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="7" Mark="*" Name="mm/dd/yy BUFF" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="8" Mark="*" Name="mm/dd/yy SALMON" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="9" Mark="*" Name="mm/dd/yy CHERRY" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="10" Mark="*" Name="mm/dd/yy TAN" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="11" Mark="*" Name="mm/dd/yy 2nd WHITE" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="12" Mark="*" Name="mm/dd/yy 2nd BLUE" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="13" Mark="*" Name="mm/dd/yy 2nd PINK" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="14" Mark="*" Name="mm/dd/yy 2nd YELLOW" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="15" Mark="*" Name="mm/dd/yy 2nd GREEN" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="16" Mark="*" Name="mm/dd/yy 2nd GOLDENROD" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="17" Mark="*" Name="mm/dd/yy 2nd BUFF" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="18" Mark="*" Name="mm/dd/yy 2nd SALMON" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="19" Mark="*" Name="mm/dd/yy 2nd CHERRY" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision Color="#00000000FFFF" FullRevision="No" ID="20" Mark="*" Name="mm/dd/yy 2nd TAN" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" SplitMode="None" SplitterPosition="0">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Verdana" RevisionID="0" Size="9" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="Man 1" Character="CLAIRE"/>
+    <Member Actor="Man 1" Character="LUKE"/>
+    <Member Actor="Man 1" Character="HALEY"/>
+    <Member Actor="Man 1" Character="GLORIA"/>
+    <Member Actor="Man 1" Character="MITCHELL"/>
+    <Member Actor="Man 1" Character="CAMERON"/>
+    <Member Actor="Man 1" Character="PHIL"/>
+    <Member Actor="Man 1" Character="MANNY"/>
+    <Member Actor="Man 1" Character="Mindy"/>
+    <Member Actor="Man 1" Character="Anna"/>
+    <Member Actor="Man 1" Character="Morgan"/>
+    <Member Actor="Man 1" Character="Jeremy"/>
+    <Member Actor="Man 1" Character="Jody"/>
+    <Member Actor="Man 1" Character="Colette"/>
+    <Member Actor="Man 1" Character="Beverly"/>
+    <Member Actor="Man 1" Character="Tamra"/>
+    <Member Actor="Man 1" Character="Ben"/>
+    <Member Actor="Man 1" Character="Beb"/>
+    <Member Actor="Man 1" Character="Allie"/>
+    <Member Actor="Man 1" Character="Cashier"/>
+    <Member Actor="Man 1" Character="Valerie"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#FFFFFFFFFFFF" Name="ANNA" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="BEN" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="BEVERLY" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="CASHIER" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="COLETTE" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="JEREMY" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="JODY" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="MINDY" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="MORGAN" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="TAMRA" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="VALERIE" Visible="No"/>
+  </CharacterHighlighting>
+
+  <CharacterNavigatorPreferences IsSortAscending="Yes" SortColumn="Order">
+    <Column Width="52">Order</Column>
+    <Column Width="50">Title</Column>
+    <Column Width="67">Location</Column>
+    <Column UserType="CharacterColumnType" Width="50">PHIL</Column>
+    <Column UserType="CharacterArcColumnType" Width="79">PHIL</Column>
+  </CharacterNavigatorPreferences>
+
+</FinalDraft>

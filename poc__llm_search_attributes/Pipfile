@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "*"
+uvicorn = {extras = ["standard"], version = "*"}
+streamlit = "*"
+altair = "*"
+sqlalchemy = "*"
+langchain = "*"
+langchain-experimental = "*"
+psycopg2-binary = "*"
+openai = "*"
+langchain-community = "*"
+langchain-openai = "*"
+watchdog = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"

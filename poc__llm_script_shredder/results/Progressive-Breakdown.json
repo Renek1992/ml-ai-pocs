@@ -1,0 +1,128 @@
+{
+    "script_path": "./data/Progressive-Breakdown.pdf",
+    "script_details": [
+        {
+            "role_name": "OVERSCALE YOUNG HOMEOWNER",
+            "role_description": "REAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. GREAT WITH SUBTLE, DRY HUMOR. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING. THEY ARE TURNING INTO THEIR PARENTS. THEY NEED TO BE ABLE TO EMBRACE THE 'PARENT' CHARACTER IN SOME WAY. PLEASE SEE PAST SPOTS OF CAMPAIGN.",
+            "scene_count": 1,
+            "gender": "Man",
+            "minimum_playable_age": "25",
+            "maximum_playable_age": "40",
+            "skills": ["Improv, Comedy, Subtle Dry Humor, Facial Expressions, Comedic Timing"],
+            "demographics": "Latinx / Hispanic",
+            "ethnicity": "Hispanic"
+        },
+        {
+            "role_name": "FEMALE YOUNG HOMEOWNER - HISPANIC",
+            "role_description": "REAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. GREAT WITH SUBTLE, DRY HUMOR. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING. THEY ARE TURNING INTO THEIR PARENTS. THEY NEED TO BE ABLE TO EMBRACE THE 'PARENT' CHARACTER IN SOME WAY. PLEASE SEE PAST SPOTS OF CAMPAIGN.",
+            "scene_count": 1,
+            "gender": "Woman",
+            "minimum_playable_age": "25",
+            "maximum_playable_age": "38",
+            "skills": ["Improv, Comedy, Subtle Dry Humor, Facial Expressions, Comedic Timing"],
+            "demographics": "Latinx / Hispanic",
+            "ethnicity": "Hispanic"
+        },
+        {
+            "role_name": "MALE YOUNG HOMEOWNER - HISPANIC",
+            "role_description": "REAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. GREAT WITH SUBTLE, DRY HUMOR. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING. THEY ARE TURNING INTO THEIR PARENTS. THEY NEED TO BE ABLE TO EMBRACE THE 'PARENT' CHARACTER IN SOME WAY. PLEASE SEE PAST SPOTS OF CAMPAIGN.",
+            "scene_count": 1,
+            "gender": "Man",
+            "minimum_playable_age": "25",
+            "maximum_playable_age": "38",
+            "skills": ["Improv, Comedy, Subtle Dry Humor, Facial Expressions, Comedic Timing"],
+            "demographics": "Latinx / Hispanic",
+            "ethnicity": "Hispanic"
+        },
+        {
+            "role_name": "FEMALE YOUNG HOMEOWNER - BIPOC",
+            "role_description": "REAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. GREAT WITH SUBTLE, DRY HUMOR. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING. THEY ARE TURNING INTO THEIR PARENTS. THEY NEED TO BE ABLE TO EMBRACE THE 'PARENT' CHARACTER IN SOME WAY. PLEASE SEE PAST SPOTS OF CAMPAIGN.",
+            "scene_count": 1,
+            "gender": "Woman",
+            "minimum_playable_age": "25",
+            "maximum_playable_age": "35",
+            "skills": ["Improv", "Comedy", "Subtle Dry Humor", "Facial Expressions", "Comedic Timing"],
+            "demographics": "Multiple Ethnic Appearances",
+            "ethnicity": "Other"
+        },
+        {
+            "role_name": "FEMALE YOUNG HOMEOWNER - CAUCASIAN",
+            "role_description": "REAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. GREAT WITH SUBTLE, DRY HUMOR. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING. THEY ARE TURNING INTO THEIR PARENTS. THEY NEED TO BE ABLE TO EMBRACE THE 'PARENT' CHARACTER IN SOME WAY. PLEASE SEE PAST SPOTS OF CAMPAIGN.",
+            "scene_count": 1,
+            "gender": "Woman",
+            "minimum_playable_age": "25",
+            "maximum_playable_age": "35",
+            "skills": ["Improv", "Comedy", "Subtle Dry Humor", "Facial Expressions", "Comedic Timing"],
+            "demographics": "White",
+            "ethnicity": "Caucasian"
+        },
+        {
+            "role_name": "MALE YOUNG HOMEOWNER - BIPOC",
+            "role_description": "REAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. GREAT WITH SUBTLE, DRY HUMOR. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING. THEY ARE TURNING INTO THEIR PARENTS. THEY NEED TO BE ABLE TO EMBRACE THE 'PARENT' CHARACTER IN SOME WAY. PLEASE SEE PAST SPOTS OF CAMPAIGN.",
+            "scene_count": 1,
+            "gender": "Man",
+            "minimum_playable_age": "25",
+            "maximum_playable_age": "35",
+            "skills": ["Improv", "Comedy", "Subtle Dry Humor", "Facial Expressions", "Comedic Timing"],
+            "demographics": "Multiple Ethnic Appearances",
+            "ethnicity": "Other"
+        },
+        {
+            "role_name": "MALE YOUNG HOMEOWNER - CAUCASIAN",
+            "role_description": "REAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. GREAT WITH SUBTLE, DRY HUMOR. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING. THEY ARE TURNING INTO THEIR PARENTS. THEY NEED TO BE ABLE TO EMBRACE THE 'PARENT' CHARACTER IN SOME WAY. PLEASE SEE PAST SPOTS OF CAMPAIGN.",
+            "scene_count": 1,
+            "gender": "Man",
+            "minimum_playable_age": "25",
+            "maximum_playable_age": "35",
+            "skills": ["Improv", "Comedy", "Subtle Dry Humor", "Facial Expressions", "Comedic Timing"],
+            "demographics": "White",
+            "ethnicity": "Caucasian"
+        },
+        {
+            "role_name": "FEMALE PARTY GUEST - BIPOC",
+            "role_description": "REAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. THEY ARE THE GROUNDED, STRAIGHT WOMAN OF THIS SPOT. A MODERN DAY NORMAL GUEST AT A HOUSE PARTY. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING.",
+            "scene_count": 1,
+            "gender": "Woman",
+            "minimum_playable_age": "25",
+            "maximum_playable_age": "38",
+            "skills": ["Improv", "Comedy", "Facial Expressions", "Comedic Timing"],
+            "demographics": "Multiple Ethnic Appearances",
+            "ethnicity": "Other"
+        },
+        {
+            "role_name": "FEMALE PARTY GUEST - CAUCASIAN",
+            "role_description": "REAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. THEY ARE THE GROUNDED, STRAIGHT WOMAN OF THIS SPOT. A MODERN DAY NORMAL GUEST AT A HOUSE PARTY. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING.",
+            "scene_count": 1,
+            "gender": "Woman",
+            "minimum_playable_age": "25",
+            "maximum_playable_age": "38",
+            "skills": ["Improv", "Comedy", "Facial Expressions", "Comedic Timing"],
+            "demographics": "White",
+            "ethnicity": "Caucasian"
+        },
+        {
+            "role_name": "MALE PARTY GUEST - BIPOC",
+            "role_description": "REAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. THEY ARE THE GROUNDED, STRAIGHT MAN OF THIS SPOT. A MODERN DAY NORMAL GUEST AT A HOUSE PARTY. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING.",
+            "scene_count": 1,
+            "gender": "Man",
+            "minimum_playable_age": "25",
+            "maximum_playable_age": "38",
+            "skills": ["Improv", "Comedy", "Facial Expressions", "Comedic Timing"],
+            "demographics": "Multiple Ethnic Appearances",
+            "ethnicity": "Other"
+        },
+        {
+            "role_name": "MALE PARTY GUEST - CAUCASIAN",
+            "role_description": "REAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. THEY ARE THE GROUNDED, STRAIGHT MAN OF THIS SPOT. A MODERN DAY NORMAL GUEST AT A HOUSE PARTY. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING.",
+            "scene_count": 1,
+            "gender": "Man",
+            "minimum_playable_age": "25",
+            "maximum_playable_age": "38",
+            "skills": ["Improv", "Comedy", "Facial Expressions", "Comedic Timing"],
+            "demographics": "White",
+            "ethnicity": "Caucasian"
+        }
+    ],
+    "script_context": "Current Roles Archived RolesPROGRESSIVEPROJECT\nOverview Worksheet Collaborators\nPROGRESSIVE\nArchived | Commercial | SAG-AFTRA, Commercial\n* OVERSCALE YOUNG HOMEOWNER - HISPANIC\nArchived\nTo Review\n 69Selected\n 0Under Consideration\n 0On Avail\n 0Booked\n 0\nPrincipal SAG-AFTRA  OVERSCALE\nMan 25 - 40 Latinx / Hispanic\nREAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. GREAT WITH SUBTLE, \nDRY HUMOR. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING. THEY ARE TURNING INTO THEIR PARENTS. THEY NEED TO BE \nABLE TO EMBRACE THE 'PARENT' CHARACTER IN SOME WAY. PLEASE SEE PAST SPOTS OF CAMPAIGN. \nFEMALE YOUNG HOMEOWNER - HISPANIC\nArchived\nTo Review\n 4Selected\n 70Under Consideration\n 80On Avail\n 0Booked\n 0\nPrincipal SAG-AFTRA  SCALE\nWoman 25 - 38 Latinx / Hispanic\nREAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. GREAT WITH SUBTLE, \nDRY HUMOR. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING. THEY ARE TURNING INTO THEIR PARENTS. THEY NEED TO BE \nABLE TO EMBRACE THE 'PARENT' CHARACTER IN SOME WAY. PLEASE SEE PAST SPOTS OF CAMPAIGN. \nMALE YOUNG HOMEOWNER - HISPANIC\nArchived\nTo Review\n 5Selected\n 50Under Consideration\n 107On Avail\n 0Booked\n 0\nPrincipal SAG-AFTRA  SCALE\nMan 25 - 38 Latinx / Hispanic\nREAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. GREAT WITH SUBTLE, \nDRY HUMOR. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING. THEY ARE TURNING INTO THEIR PARENTS. THEY NEED TO BE \nABLE TO EMBRACE THE 'PARENT' CHARACTER IN SOME WAY. PLEASE SEE PAST SPOTS OF CAMPAIGN. \nFEMALE YOUNG HOMEOWNER - BIPOC\nArchived\nTo Review\n 2Selected\n 39Under Consideration\n 22On Avail\n 0Booked\n 0\nPrincipal SAG-AFTRA  SCALE\nWoman 25 - 35 Multiple Ethnic Appearances\nREAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. GREAT WITH SUBTLE, \nDRY HUMOR. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING. THEY ARE TURNING INTO THEIR PARENTS. THEY NEED TO BE \nABLE TO EMBRACE THE 'PARENT' CHARACTER IN SOME WAY. PLEASE SEE PAST SPOTS OF CAMPAIGN. \nFEMALE YOUNG HOMEOWNER - CAUCASIAN\nArchived\nTo Review\n 5Selected\n 39Under Consideration\n 25On Avail\n 0Booked\n 0\nPrincipal SAG-AFTRA  SCALE\nWoman 25 - 35 White8/2/24, 11:56 AM Casting Networks - Project Details\nhttps://app.castingnetworks.com/casting/project/15890028 1/3REAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. GREAT WITH SUBTLE, \nDRY HUMOR. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING. THEY ARE TURNING INTO THEIR PARENTS. THEY NEED TO BE \nABLE TO EMBRACE THE 'PARENT' CHARACTER IN SOME WAY. PLEASE SEE PAST SPOTS OF CAMPAIGN. \nMALE YOUNG HOMEOWNER - BIPOC\nArchived\nTo Review\n 2Selected\n 8Under Consideration\n 23On Avail\n 0Booked\n 0\nPrincipal SAG-AFTRA  SCALE\nMan 25 - 35 Multiple Ethnic Appearances\nREAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. GREAT WITH SUBTLE, \nDRY HUMOR. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING. THEY ARE TURNING INTO THEIR PARENTS. THEY NEED TO BE \nABLE TO EMBRACE THE 'PARENT' CHARACTER IN SOME WAY. PLEASE SEE PAST SPOTS OF CAMPAIGN. \nMALE YOUNG HOMEOWNER - CAUCASIAN\nArchived\nTo Review\n 5Selected\n 36Under Consideration\n 18On Avail\n 0Booked\n 0\nPrincipal SAG-AFTRA  SCALE\nMan 25 - 35 White\nREAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. GREAT WITH SUBTLE, \nDRY HUMOR. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND COMEDIC TIMING. THEY ARE TURNING INTO THEIR PARENTS. THEY NEED TO BE \nABLE TO EMBRACE THE 'PARENT' CHARACTER IN SOME WAY. PLEASE SEE PAST SPOTS OF CAMPAIGN. \nFEMALE PARTY GUEST - BIPOC\nArchived\nTo Review\n 0Selected\n 118Under Consideration\n 16On Avail\n 0Booked\n 0\nPrincipal SAG-AFTRA  SCALE\nWoman 25 - 38 Multiple Ethnic Appearances\nREAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. THEY ARE THE \nGROUNDED, STRAIGHT WOMAN OF THIS SPOT. A MODERN DAY NORMAL GUEST AT A HOUSE PARTY. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS \nAND COMEDIC TIMING. \nFEMALE PARTY GUEST - CAUCASIAN\nArchived\nTo Review\n 0Selected\n 146Under Consideration\n 19On Avail\n 0Booked\n 0\nPrincipal SAG-AFTRA  SCALE\nWoman 25 - 38 White\nREAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. THEY ARE THE \nGROUNDED, STRAIGHT WOMAN OF THIS SPOT. A MODERN DAY NORMAL GUEST AT A HOUSE PARTY. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS \nAND COMEDIC TIMING. \nMALE PARTY GUEST - BIPOC\nArchived\nTo Review\n 458Selected\n 124Under Consideration\n 17On Avail\n 0Booked\n 0\nPrincipal SAG-AFTRA  SCALE\nMan 25 - 38 Multiple Ethnic Appearances\nREAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. THEY ARE THE \nGROUNDED, STRAIGHT MAN OF THIS SPOT. A MODERN DAY NORMAL GUEST AT A HOUSE PARTY. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND \nCOMEDIC TIMING. \nMALE PARTY GUEST - CAUCASIAN\nArchived\nTo Review Selected Under Consideration On Avail Booked8/2/24, 11:56 AM Casting Networks - Project Details\nhttps://app.castingnetworks.com/casting/project/15890028 2/3 426  30  16  0  0\nPrincipal SAG-AFTRA  SCALE\nMan 25 - 38 White\nREAL TO SLIGHT CHARACTER LOOKING. INTERESTING FACE. HUGE IMPROV / COMEDY CHOPS. NORMAL, EVERYDAY, RELATABLE. THEY ARE THE \nGROUNDED, STRAIGHT MAN OF THIS SPOT. A MODERN DAY NORMAL GUEST AT A HOUSE PARTY. GREAT ACTOR. GREAT WITH FACIAL EXPRESSIONS AND \nCOMEDIC TIMING. 8/2/24, 11:56 AM Casting Networks - Project Details\nhttps://app.castingnetworks.com/casting/project/15890028 3/3",
+    "processing_timestamp": "2024-08-08 16:44:01.302831"
+}

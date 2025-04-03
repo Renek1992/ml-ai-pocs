@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+boto3 = "*"
+requests = "*"
+streamlit = "*"
+polars = "*"
+lancedb = "*"
+uvicorn = "*"
+fastapi = "*"
+tqdm = "*"
+langchain-community = "*"
+langchain = "*"
+langchain-core = "*"
+langchain-openai = "*"
+snowflake-connector-python = "*"
+pandas = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
